@@ -1,17 +1,17 @@
 
 
-<h1 align="center">Hi 👋, I'm <a href ="https://www.linkedin.com/in/tushardaiya/">Tushar Daiya</a></h1>
+<h1 align="center">Hi 👋, I'm <a href ="https://www.linkedin.com/in/tushardaiya/">ASHISH RAJ</a></h1>
 <h3 align="center">Learning and Improving my Skills</h3>
 
-- 🌱 I’m currently learning **Python and JavaScript**
+- 🌱 I’m currently learning **C and c++**
 
-- 📫 Connect with me **tdaiya02@gmail.com**
+- 📫 Connect with me **ashish1195.raj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tushardaiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tushardaiya" height="30" width="40" /></a>
+<a href="https://twitter.com/AshishR86786550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AshishR86786550" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tushardaiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushardaiya" height="30" width="40" /></a>
-<a href="https://instagram.com/tushardaiya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tushardaiya_" height="30" width="40" /></a>
+<a href="https://instagram.com/ASHISH__TRACKERR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ASHISH__TRACKERR" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
