@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm <a href ="https://www.linkedin.com/in/tushardaiya/">ASHISH RAJ</a></h1>
+<h1 align="center">Hi 👋, I'm <a href ="www.linkedin.com/in/ashish-raj-070486248">ASHISH RAJ</a></h1>
 <h3 align="center">Learning and Improving my Skills</h3>
 
 - 🌱 I’m currently learning **C and c++**
