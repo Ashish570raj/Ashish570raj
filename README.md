@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm <a href ="www.linkedin.com/in/ashish-raj-070486248">ASHISH RAJ</a></h1>
 <h3 align="center">Learning and Improving my Skills</h3>
 
-- 🌱 I’m currently learning **C and c++**
+- 🌱 I’m currently learning **C,c++,Python,Django and DSA**
 
 - 📫 Connect with me **ashish1195.raj@gmail.com**
 
