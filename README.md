@@ -50,14 +50,13 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashish570raj&show_icons=true&theme=tokyonight" alt="Ashish's GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish570raj&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashish570raj&show_icons=true&theme=tokyonight" alt="Ashish's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish570raj&layout=compact&theme=tokyonight" alt="Top Languages"/>
   <img width="48%" src="productive-time-IST.png" alt="Productive Time in IST">
-
 </p>
 
 ---
