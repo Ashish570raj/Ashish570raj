@@ -56,9 +56,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashish570raj&show_icons=true&theme=tokyonight" alt="Ashish's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish570raj&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashish570raj&theme=radical" alt="Productive Time">
+  <img width="48%" src="productive-time-IST.png" alt="Productive Time in IST">
 
-> ⏰ All times are in UTC (IST = UTC +5:30)
 </p>
 
 ---
