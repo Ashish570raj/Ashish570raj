@@ -56,7 +56,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashish570raj&show_icons=true&theme=tokyonight" alt="Ashish's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish570raj&layout=compact&theme=tokyonight" alt="Top Languages"/>
-   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soup-souvik&theme=radical" alt="Productive Time">
+   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashish570raj&theme=radical" alt="Productive Time">
 </p>
 
 ---
