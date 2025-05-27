@@ -55,9 +55,9 @@
 
 <p align="center">
 <!-- ![Ashish's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashish570raj&theme=dracula) -->
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish570raj&theme=dracula" alt="Ashish's GitHub activity graph"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish570raj&layout=compact&theme=tokyonight" alt="Top Languages"/> -->
-<!--   <img width="48%" src="productive-time-IST.png" alt="Productive Time in IST"> -->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish570raj&theme=dracula" alt="Ashish's GitHub activity graph"/> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish570raj&layout=compact&theme=tokyonight" alt="Top Languages"/>
+   <img width="48%" src="productive-time-IST.png" alt="Productive Time in IST"> 
 </p>
 
 ---
