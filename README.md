@@ -50,17 +50,26 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashish570raj&show_icons=true&theme=tokyonight" alt="Ashish's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish570raj&theme=radical&ring=FF61A6&fire=FF61A6&currStreakLabel=FF61A6" alt="GitHub Streak Stats" /></p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ashish570raj&show_icons=true&theme=tokyonight"
+    alt="Ashish's GitHub Stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish570raj&theme=tokyonight"
+    alt="GitHub Streak Stats"
+    height="165"
+  />
+</p>
 
 <p align="center">
-<!-- ![Ashish's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashish570raj&theme=dracula) -->
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish570raj&theme=dracula" alt="Ashish's GitHub activity graph"/> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish570raj&layout=compact&theme=tokyonight" alt="Top Languages"/>
-<!--    <img width="48%" src="productive-time-IST.png" alt="Productive Time in IST"> -->
-</p> 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish570raj&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+    height="165"
+  />
+</p>
 
----
 
 ## 🔥 Fun Quote  
 <h3 align="center">💡 “Data is the new oil, and I’m learning how to refine it.” 💡</h3>
