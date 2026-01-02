@@ -36,27 +36,36 @@ I’m an **aspiring Data Scientist and AI Engineer** with a strong interest in
 
 ---
 
-## 🛠️ Technical Skills  
+## 🛠️ Tech Stack  
 
 ### 💻 Programming & Data Science  
-- **Python**, SQL  
-- Pandas, NumPy  
-- Statistics & Exploratory Data Analysis  
-- Scikit-learn (Machine Learning)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
 
 ### ⚙️ Backend & APIs  
-- **FastAPI** (building ML & AI APIs)  
-- **Pydantic** (data validation & schemas)
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+</p>
 
 ### 🤖 Generative AI & LLMs  
-- Generative AI fundamentals  
-- Large Language Models (LLMs)  
-- **LangChain** (learning & building LLM pipelines)  
-- Prompt engineering basics  
+<p>
+  <img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-2E8B57?style=for-the-badge"/>
+</p>
 
 ### 📊 Data Visualization  
-- Tableau  
-- Power BI  
+<p>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
 
 ---
 
