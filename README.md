@@ -1,8 +1,8 @@
 <h1 align="center">🚀 Hi, I'm <a href="https://www.linkedin.com/in/ashish-raj-070486248/" target="_blank">Ashish Raj</a></h1>
-<h3 align="center">Aspiring Data Scientist | AI & Analytics Enthusiast | Turning Data into Impact</h3>
+<h3 align="center">Aspiring Data Scientist | AI & GenAI Enthusiast | Turning Data into Intelligence</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashish570raj&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ashish570raj&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
@@ -21,14 +21,14 @@
 
 ## 🌟 About Me  
 
-🎯 **Aspiring Data Scientist** passionate about extracting insights from data  
-🔭 Currently building **Machine Learning, Data Analytics & Visualization projects**  
-🌱 Learning **Data Science | ML | Statistics | Tableau | Power BI | DSA**  
-🧠 Strong focus on **Python, SQL, Pandas, NumPy, Scikit-Learn**  
-🤝 Open to **Open-Source & Data Science collaborations**  
+🎯 Aspiring **Data Scientist & AI Engineer**  
+🔭 Working on **Machine Learning, Data Analytics & GenAI projects**  
+🌱 Learning **Generative AI, LLMs, LangChain, MLOps basics**  
+🧠 Strong in **Python, SQL, Pandas, NumPy, Statistics, Scikit-Learn**  
+🤝 Open to **Open-Source, AI & Data Science collaborations**  
 📫 Reach me at **ashish1195.raj@gmail.com**  
 
-⚡ *Fun Fact:* I love finding patterns in chaos and turning them into predictions 🤖📊  
+⚡ *Fun Fact:* I enjoy transforming raw data into intelligent systems 🤖📊  
 
 ---
 
@@ -43,46 +43,52 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
+### ⚙️ Backend & APIs  
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+</p>
+
+### 🤖 Generative AI & LLMs  
+<p>
+  <img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-2E8B57?style=for-the-badge"/>
+</p>
+
 ### 📊 Data Visualization  
 <p>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-### 🌐 Web & Tools  
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+---
+
+## 🚀 What I’m Building  
+✔ Machine Learning models on real-world datasets  
+✔ APIs for ML & AI using **FastAPI**  
+✔ GenAI applications with **LLMs & LangChain**  
+✔ Interactive dashboards & analytics reports  
 
 ---
 
-## 📌 What I’m Working On  
-✔ Machine Learning Models & Real-World Datasets  
-✔ Data Cleaning, EDA & Feature Engineering  
-✔ Dashboards using **Tableau & Power BI**  
-✔ Python-based Web Apps (Django)  
+## 📊 GitHub Stats (Fixed & Stable)  
 
----
-
-## 📊 GitHub Analytics  
+> ⚠️ *Note:* GitHub stats may take a few minutes to load on first view.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashish570raj&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish570raj&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashish570raj&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish570raj&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish570raj&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 </p>
 
 ---
 
-## 🧠 Data Science Mindset  
-> **“Data is the new oil — and I’m learning how to refine it into insights.”** 💡  
+## 🧠 AI Mindset  
+> **“The future belongs to those who can turn data into intelligence.”**  
 
 ---
 
-⭐ **If you like my work, consider giving a star to my repositories!**  
+⭐ *If you find my work interesting, feel free to star my repositories!*  
