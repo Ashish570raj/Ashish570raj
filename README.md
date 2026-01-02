@@ -8,7 +8,7 @@ Aspiring Data Scientist | Generative AI & LLM Enthusiast | Turning Data into Int
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashish-raj-070486248/" target="_blank">
+  <a href="https://www.linkedin.com/in/ashish-raj-tech/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/AshishR86786550" target="_blank">
